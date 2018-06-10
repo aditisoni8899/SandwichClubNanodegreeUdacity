@@ -18,9 +18,12 @@ buildscript {
 
 allprojects {
     repositories {
-        jcenter()
+        mavenCentral()
+        mavenLocal()
         google()
+        jcenter()
     }
+
 }
 
 task clean(type: Delete) {

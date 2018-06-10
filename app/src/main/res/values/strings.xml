@@ -128,4 +128,8 @@
         </item>
     </string-array>
 
+    <string name="dummy_data">Dummy data dddvfvfvdfv</string>
+
+    <string name="not_available">Data is not available</string>
+
 </resources>
